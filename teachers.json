@@ -1,0 +1,55 @@
+{
+    "2": {
+        "codigo": "2",
+        "documento": "2",
+        "imagen": "https://pbs.twimg.com/profile_images/1904685335/1239746447475_f_400x400.jpg",
+        "nombre": "Profesor",
+        "apellido": "Súper O",
+        "celular": "3001239876",
+        "correo": "pp@gmail.com",
+        "correo_institucional": "emartinezpinzon@gmail.com",
+        "carrera": "INGENIERÍA ELECTRÓNICA",
+        "rol": "DOCENTE",
+        "año_actual": "2018-06-20",
+        "semestre_actual": 1,
+        "materias": {
+            "1160063-A": "ECONOMÍA Y FINANZAS PARA INGENIEROS",
+            "1150835-A": "GERENCIA Y TECNOLOGÍA"
+        }
+    },
+    "22": {
+      "codigo": "22",
+      "documento": "22",
+      "imagen": "https://pbs.twimg.com/profile_images/1904685335/1239746447475_f_400x400.jpg",
+      "nombre": "Email",
+      "apellido": "Prubea",
+      "celular": "3001239876",
+      "correo": "pp@gmail.com",
+      "correo_institucional": "emanuelmp@ufps.edu.co",
+      "carrera": "INGENIERÍA ELECTRÓNICA",
+      "rol": "DOCENTE",
+      "año_actual": "2018-06-20",
+      "semestre_actual": 1,
+      "materias": {
+          "1160063-A": "ECONOMÍA Y FINANZAS PARA INGENIEROS"
+      }
+    },
+    "05372": {
+        "codigo": "05372",
+        "documento": "13176659",
+        "imagen": "https://i.imgur.com/zx9DB2Y.png",
+        "nombre": "Carlos",
+        "apellido": "Angarita",
+        "celular": "313 8776936",
+        "correo": "cangarita@gmail.com",
+        "correo_institucional": "carlosreneas@ufps.edu.co",
+        "carrera": "INGENIERÍA DE SISTEMAS",
+        "rol": "DOCENTE",
+        "año_actual": "2018-06-20",
+        "semestre_actual": 1,
+        "materias": {
+            "1155605-B": "BASES DE DATOS",
+            "1155607-B": "DESARROLLO WEB"
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "1": {
+        "codigo": "1",
+        "documento": "1",
+        "imagen": "https://pbs.twimg.com/profile_images/378800000217586147/a195da27a7272947a7a05640371c1934_400x400.jpeg",
+        "nombre": "Cosme",
+        "apellido": "Fulanito",
+        "celular": "3001239876",
+        "correo": "example@example.com",
+        "correo_institucional": "emanuelmp@ufps.edu.co",
+        "carrera": "INGENIERÍA MECÁNICA",
+        "rol": "ESTUDIANTE",
+        "año_actual": "2018-06-20",
+        "semestre_actual": 1,
+        "materias": {
+            "1160305-B": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+            "1160063-A": "ECONOMÍA Y FINANZAS PARA INGENIEROS",
+            "1160407-B": "ELECTRÓNICA",
+            "1155501-B": "ANALISIS NUMÉRICO"
+        }
+    },
+    "11": {
+      "codigo": "11",
+      "documento": "2",
+      "imagen": "https://pbs.twimg.com/profile_images/1904685335/1239746447475_f_400x400.jpg",
+      "nombre": "Profesor",
+      "apellido": "Súper O",
+      "celular": "3001239876",
+      "correo": "pp@gmail.com",
+      "correo_institucional": "emartinezpinzon@gmail.com",
+      "carrera": "MAESTRÍA EN ELECTRÓNICA Y CIRCUITOS",
+      "rol": "ESTUDIANTE",
+      "año_actual": "2018-06-20",
+      "semestre_actual": 1,
+      "materias": {
+          "1260204-A": "ANTENAS Y MATERIALES",
+          "1260407-B": "CONDUCTIVIDAD, ELECTRÓNICA Y QUÍMICA"
+      }
+  },
+    "1151245": {
+        "codigo": "1151245",
+        "documento": "1090510600",
+        "imagen": "https://divisist2.ufps.edu.co/public/imagenes/9dce7a8304d7d668b0dcb59f2a333936ecea23b748a09978ce5c905d063e65a0.JPEG",
+        "nombre": "Emanuel",
+        "apellido": "Martínez Pinzón",
+        "celular": "3138631225",
+        "correo": "emartinezpinzon@gmail.com",
+        "correo_institucional": "emanuelmp@ufps.edu.co",
+        "carrera": "INGENIERÍA DE SISTEMAS",
+        "rol": "ESTUDIANTE",
+        "año_actual": "2018-06-20",
+        "semestre_actual": 1,
+        "materias": {
+            "1150835-A": "GERENCIA Y TECNOLOGÍA",
+            "1155605-B": "BASES DE DATOS",
+            "1160063-A": "ECONOMÍA Y FINANZAS PARA INGENIEROS",
+            "1180806-B": "CONSTITUCIÓN Y CIVISMO",
+            "1155405-A": "TEORÍA DE LA COMPUTACIÓN",
+            "1155501-B": "ANALISIS NUMÉRICO"
+        }
+    },
+    "1151235": {
+        "codigo": "1151235",
+        "documento": "101",
+        "imagen": "https://scontent.fbaq2-2.fna.fbcdn.net/v/t1.0-9/19756608_10211984144656776_3879161859985884897_n.jpg?_nc_cat=0&oh=fa4a2a699235685c0ce7f83b722150b4&oe=5B9E696D",
+        "nombre": "Jairo Andrés",
+        "apellido": "Castañeda",
+        "celular": "3502251226",
+        "correo": "andresbbx@gmail.com",
+        "correo_institucional": "jairoandrescp@ufps.edu.co",
+        "carrera": "INGENIERÍA DE SISTEMAS",
+        "rol": "ESTUDIANTE",
+        "año_actual": "2018-06-20",
+        "semestre_actual": 1,
+        "materias": {
+            "1150835-A": "GERENCIA Y TECNOLOGÍA",
+            "1155607-B": "DESARROLLO WEB"
+        }
+    },
+    "1151276": {
+        "codigo": "1151276",
+        "documento": "1272719291",
+        "imagen": "https://i.imgur.com/XYRS9FD.png",
+        "nombre": "Marcela",
+        "apellido": "Navarro",
+        "celular": "3212251546",
+        "correo": "",
+        "correo_institucional": "geimymarcelanm@ufps.edu.co",
+        "carrera": "INGENIERÍA DE SISTEMAS",
+        "rol": "ESTUDIANTE",
+        "año_actual": "2018-06-20",
+        "semestre_actual": 1,
+        "materias": {
+            "1150835-A": "GERENCIA Y TECNOLOGÍA",
+            "1155605-B": "BASES DE DATOS"
+        }
+    },
+    "1151427": {
+        "codigo": "1151427",
+        "documento": "1024012583",
+        "imagen": "https://divisist2.ufps.edu.co/public/imagenes/b86aec1eda56a75f06cfa519ffc9aa8d2f83111e5fb74c0f61a31b52ac75458d.JPEG",
+        "nombre": "Camilo",
+        "apellido": "Hernández",
+        "celular": "320 3410602",
+        "correo": "camilo@gmail.com",
+        "correo_institucional": "camiloandreshm@ufps.edu.co",
+        "carrera": "INGENIERÍA DE SISTEMAS",
+        "rol": "ESTUDIANTE",
+        "año_actual": "2018-06-20",
+        "semestre_actual": 1,
+        "materias": {
+            "1150835-A": "GERENCIA Y TECNOLOGÍA",
+            "1155605-B": "BASES DE DATOS"
+        }
+    }
+}
